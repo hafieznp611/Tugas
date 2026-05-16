@@ -1,0 +1,3 @@
+dokumen1.txt: nasi,0.1761 goreng,0.1761 
+dokumen2.txt: nasi,0.1761 bakar,0.4771 
+dokumen3.txt: mie,0.4771 goreng,0.1761 

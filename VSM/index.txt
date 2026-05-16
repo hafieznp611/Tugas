@@ -1,0 +1,4 @@
+nasi: dokumen1.txt,0.1761 dokumen2.txt,0.1761 
+goreng: dokumen1.txt,0.1761 dokumen3.txt,0.1761 
+bakar: dokumen2.txt,0.4771 
+mie: dokumen3.txt,0.4771 

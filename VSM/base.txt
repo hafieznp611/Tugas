@@ -1,0 +1,3 @@
+dokumen1.txt
+dokumen2.txt
+dokumen3.txt
